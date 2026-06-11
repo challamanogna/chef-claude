@@ -14,7 +14,11 @@ Responsive and clean user interface
 Built with modern React practices
 ## Tech Stack
 React
+
 Vite
+
 JavaScript (ES6+)
+
 CSS
+
 Gemini API
